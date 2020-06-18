@@ -57,3 +57,19 @@
         //可節省頻寬。
 
 
+# 暫停、回復連線
+
+* Suspend connection 
+
+可使用 ctrl+shift+6 再按下 x 
+
+並使用 sh session 指令能見到被暫停的連線 idle mode 為 1
+
+* Re-Establish connection
+
+使用 sh session 指令能見到被暫停的連線 idle mode 為 1
+
+並檢視需要回復的連線編號
+
+再下指令 resume 後方加上連線編號即可
+
