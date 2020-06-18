@@ -43,3 +43,15 @@
         pintred  console  Jun 18 21:02 
         pintred  ttys000  Jun 18 21:04 
 
+
+# 終止遠端連線
+
+從設備端而言
+
+        (router)# show user
+        //確認要關閉哪個連線對象。
+
+        (router)# clear line <連線編號>
+        //從 console 方關閉來自遠端連線的使用者。
+
+從主機而言
