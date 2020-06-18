@@ -35,4 +35,11 @@
         where
 
         who
+        
+        
+範例：
+
+         ~  ✗ who
+        pintred  console  Jun 18 21:02 
+        pintred  ttys000  Jun 18 21:04 
 
