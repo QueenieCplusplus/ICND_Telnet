@@ -5,9 +5,9 @@
 
 # 路由器設備
 
-(router)# <remote network equipment IP addr>
+    (router)# <remote network equipment IP addr>
 
 # 交換器設備
 
-(sw)# telnet <remote network equipment IP addr>
+    (sw)# telnet <remote network equipment IP addr>
 
