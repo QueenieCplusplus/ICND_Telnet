@@ -73,3 +73,7 @@
 
 再下指令 resume 後方加上連線編號即可
 
+# ACL for VTY
+
+https://github.com/QueenieCplusplus/ICND_ACL/blob/master/README.md#以存取等級紀錄控制-vty-連線
+
